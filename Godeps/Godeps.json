@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/newgoo/k8s-controller-simple",
+	"GoVersion": "go1.12",
+	"GodepVersion": "v80",
+	"Deps": []
+}

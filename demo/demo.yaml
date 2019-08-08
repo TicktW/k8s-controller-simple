@@ -1,0 +1,8 @@
+apiVersion: samplecrd.k8s.io/v1
+kind: Demo
+metadata:
+  name: demo-controller-test
+spec:
+  deploymentName: demo-controller-test
+  replicas: 2
+  restartPolicy: Always

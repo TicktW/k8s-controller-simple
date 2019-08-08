@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "iHCFkwXAKpS+v3OeHPf/A3QI65A=",
+			"path": "k8s.io/code-generator",
+			"revision": "68819053f471cd7c180f9c757270b5bbf09ee4eb",
+			"revisionTime": "2019-07-31T12:28:47Z"
+		}
+	],
+	"rootPath": "github.com/newgoo/k8s-controller-simple"
+}
